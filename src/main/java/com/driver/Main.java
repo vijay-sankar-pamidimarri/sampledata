@@ -13,5 +13,6 @@ public class Main {
         // System.out.println(obj.name);  // Error: 'name' has private access in RWOnly
         obj.setName("vijay");
         obj.getName();
+        ///adederds ectere thingb
     }
 }
